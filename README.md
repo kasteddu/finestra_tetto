@@ -15,7 +15,8 @@ La variante attuale è la **02 - apertura a libro**: due ante vetrate incerniera
 
 ## Rilievo di base
 
-- `foto_orig/`: fotografie dello stato attuale.
+- `foto_orig/`: sei fotografie originali; indice e note in `foto_orig/README.md`.
+- `anteprime/`: copie JPEG delle foto 3-6 per la visualizzazione su GitHub.
 - `specifiche_tecniche.md`: misure e calcoli dello stato iniziale inclinato.
 - `finestra_tetto_A01.pdf`: tavola dello stato iniziale.
 - `finestra_tetto_A01.svg`: sorgente vettoriale dello stato iniziale.

@@ -62,3 +62,17 @@ Queste assunzioni devono essere confermate con un rilievo diretto prima di produ
 ## 7. Limiti del documento
 
 La tavola e queste specifiche rappresentano esclusivamente un rilievo geometrico preliminare. Non costituiscono un progetto esecutivo, non attestano la sicurezza strutturale e non devono essere usate direttamente per la fabbricazione o l'installazione.
+
+## 8. Aggiornamento fotografico
+
+Sono disponibili sei fotografie complessive. Le foto 3-6 aggiungono viste dall'interno, dettagli dall'alto del vano scala e una vista esterna del cordolo e della terrazza.
+
+I nuovi scatti evidenziano:
+
+- la vicinanza diretta del vano scala;
+- pareti e telai vetrati esistenti lungo il perimetro;
+- componenti delle ante esistenti da rilevare;
+- la presenza di una griglia e di una bombola del gas sul lato esterno, da spostare e isolare durante i lavori;
+- la necessità di verificare lo spazio libero di montaggio e apertura.
+
+Per l'indice completo vedere `foto_orig/README.md`.

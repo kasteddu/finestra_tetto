@@ -11,3 +11,7 @@ Questa variante prevede due ante vetrate da circa 60 × 93 cm, incernierate sui 
 - `finestra_tetto_A03_a_libro.svg`
 - `concept_a_libro.svg`
 - `progetto_a_libro.md`
+
+## Rilievo fotografico
+
+Le foto 3-6 aggiornano il quadro del contesto: mostrano il vano scala dall'interno, il sistema di ante esistente e il perimetro esterno. Prima del progetto esecutivo vanno verificate le quote della parete vetrata, della porta frontale e dello spazio occupato dalla griglia e dalla bombola del gas.

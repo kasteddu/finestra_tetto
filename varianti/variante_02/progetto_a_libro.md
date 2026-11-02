@@ -87,3 +87,14 @@ La battuta centrale deve avere guarnizione EPDM continua e copertura metallica s
 - spazio utile all'apertura delle due ante;
 - resistenza degli appoggi e necessità di rinforzi;
 - accessibilità e regolazione dei pistoni.
+
+## 9. Riferimenti fotografici aggiornati
+
+Le fotografie `foto_3`-`foto_6` mostrano il vano scala dall'interno, il dettaglio delle ante esistenti e il perimetro esterno. Prima del progetto esecutivo occorre verificare:
+
+- l'ingombro della parete vetrata e dei telai retrostanti;
+- la posizione e la larghezza reali della porta frontale;
+- lo spazio libero sul lato esterno, attualmente occupato dalla griglia e dalla bombola del gas;
+- l'accessibilità delle cerniere e dei futuri pistoni.
+
+L'indice completo è in `foto_orig/README.md`.
