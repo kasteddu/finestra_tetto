@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#20252b" stroke-width="0.45"/>
+<text x="15" y="17" fill="#20252b" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA TETTO / VARIANTE ORIZZONTALE</text>
+<text x="15" y="23" fill="#626b74" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">PROGETTO DI MASSIMA - COPERCHIO VETRATO SCORREVOLE</text>
+<line x1="15" y1="28" x2="405.0" y2="28" stroke="#20252b" stroke-width="0.3"/>
+<rect x="14" y="34" width="150" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="20" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A - PIANTA / CHIUSO E APERTO</text>
+<text x="20" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">scala 1:20; scorrimento lungo 93 cm</text>
+<rect x="24.0" y="56.0" width="76.0" height="76.0" fill="#f7f8f9" stroke="#d9dee3" stroke-width="0.25"/>
+<rect x="32.0" y="63.0" width="6.0" height="4.65" fill="none" stroke="#20252b" stroke-width="0.7"/>
+<text x="35.0" y="65.325" fill="#20252b" font-size="2.7" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">LUCE</text>
+<rect x="30.0" y="61.0" width="10.0" height="8.65" fill="none" stroke="#626b74" stroke-width="0.3" stroke-dasharray="3 2"/>
+<rect x="30.0" y="71.65" width="10.0" height="8.65" fill="none" stroke="#b45309" stroke-width="0.5" stroke-dasharray="4 2"/>
+<text x="35.0" y="78.97500000000001" fill="#b45309" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">PANNELLO VETRATO</text>
+<text x="35.0" y="82.97500000000001" fill="#b45309" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">IN POSIZIONE APERTA</text>
+<line x1="32.0" y1="61.0" x2="32.0" y2="61.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="38.0" y1="61.0" x2="38.0" y2="61.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="32.0" y1="59" x2="38.0" y2="59" stroke="#b45309" stroke-width="0.22"/>
+<line x1="31.116116523516816" y1="58.116116523516816" x2="32.883883476483184" y2="59.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="37.116116523516816" y1="58.116116523516816" x2="38.883883476483184" y2="59.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="35.0" y="57.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">120</text>
+<line x1="38.0" y1="63.0" x2="45.0" y2="63.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="38.0" y1="67.65" x2="45.0" y2="67.65" stroke="#626b74" stroke-width="0.18"/>
+<line x1="47.0" y1="63.0" x2="47.0" y2="67.65" stroke="#b45309" stroke-width="0.22"/>
+<line x1="47.883883476483184" y1="62.116116523516816" x2="46.116116523516816" y2="63.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="47.883883476483184" y1="66.76611652351681" x2="46.116116523516816" y2="68.5338834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="45.4" y="65.325" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 45.4 65.325)">93</text>
+<line x1="54.0" y1="71.65" x2="54.0" y2="72.30000000000001" stroke="#b45309" stroke-width="0.22"/>
+<line x1="54.883883476483184" y1="70.76611652351681" x2="53.116116523516816" y2="72.5338834764832" stroke="#b45309" stroke-width="0.3"/>
+<line x1="54.883883476483184" y1="71.41611652351682" x2="53.116116523516816" y2="73.1838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="52.4" y="71.97500000000001" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 52.4 71.97500000000001)">93</text>
+<line x1="35.0" y1="68.65" x2="35.0" y2="70.65" stroke="#b45309" stroke-width="0.45"/>
+<polygon points="35.0,70.65 33.7,67.65 36.3,67.65" fill="#b45309" stroke="#b45309" stroke-width="0.2"/>
+<text x="38.0" y="71.65" fill="#b45309" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">DIREZIONE DI SCORRIMENTO</text>
+<text x="20" y="156" fill="#20252b" font-size="2.3" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Il pannello scorre sopra il telaio fisso.</text>
+<rect x="169" y="34" width="116" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="175" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">B - SEZIONE TRASVERSALE</text>
+<text x="175" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">chiuso; spessori schematici</text>
+<line x1="177" y1="133.0" x2="270" y2="133.0" stroke="#20252b" stroke-width="0.45"/>
+<rect x="178.0" y="110.0" width="7" height="23" fill="#eceff1" stroke="#20252b" stroke-width="0.35"/>
+<rect x="245.0" y="110.0" width="7" height="23" fill="#eceff1" stroke="#20252b" stroke-width="0.35"/>
+<line x1="185.0" y1="110.0" x2="185.0" y2="143.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="245.0" y1="110.0" x2="245.0" y2="143.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="185.0" y1="141.0" x2="245.0" y2="141.0" stroke="#b45309" stroke-width="0.22"/>
+<line x1="184.1161165235168" y1="140.1161165235168" x2="185.8838834764832" y2="141.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<line x1="244.1161165235168" y1="140.1161165235168" x2="245.8838834764832" y2="141.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="215.0" y="139.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">120</text>
+<rect x="182.0" y="96" width="66.0" height="5" fill="#d9eef5" stroke="#20252b" stroke-width="0.55"/>
+<text x="215.0" y="99.5" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">VETRO LAMINATO</text>
+<line x1="183.0" y1="106" x2="247.0" y2="106" stroke="#b45309" stroke-width="0.5"/>
+<text x="215.0" y="111" fill="#b45309" font-size="2.3" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">TELAIO SCORREVOLE</text>
+<line x1="185.0" y1="117" x2="189.0" y2="117" stroke="#20252b" stroke-width="0.4"/>
+<line x1="241.0" y1="117" x2="245.0" y2="117" stroke="#20252b" stroke-width="0.4"/>
+<text x="215.0" y="120" fill="#20252b" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">BATTUTA + GUARNIZIONE EPDM</text>
+<text x="175" y="151" fill="#626b74" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Quota verticale fuori scala.</text>
+<rect x="290" y="34" width="116" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="296" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">C - SEZIONE LONGITUDINALE</text>
+<text x="296" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">pannello arretrato; soglia libera</text>
+<line x1="297" y1="135.0" x2="398" y2="135.0" stroke="#20252b" stroke-width="0.45"/>
+<rect x="301.0" y="118.0" width="3" height="17" fill="#eceff1" stroke="#20252b" stroke-width="0.35"/>
+<rect x="308.65" y="118.0" width="3" height="17" fill="#eceff1" stroke="#20252b" stroke-width="0.35"/>
+<rect x="303.0" y="102" width="6.65" height="5" fill="none" stroke="#626b74" stroke-width="0.3" stroke-dasharray="3 2"/>
+<rect x="308.65" y="92" width="6.65" height="5" fill="#d9eef5" stroke="#20252b" stroke-width="0.55"/>
+<line x1="303.0" y1="112" x2="310.65" y2="112" stroke="#626b74" stroke-width="0.35" stroke-dasharray="3 2"/>
+<line x1="308.65" y1="104" x2="315.29999999999995" y2="104" stroke="#b45309" stroke-width="0.45"/>
+<line x1="304.0" y1="118.0" x2="304.0" y2="145.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="308.65" y1="118.0" x2="308.65" y2="145.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="304.0" y1="143.0" x2="308.65" y2="143.0" stroke="#b45309" stroke-width="0.22"/>
+<line x1="303.11611652351684" y1="142.1161165235168" x2="304.88388347648316" y2="143.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<line x1="307.7661165235168" y1="142.1161165235168" x2="309.53388347648314" y2="143.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="306.325" y="141.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">93</text>
+<line x1="304.0" y1="82" x2="308.65" y2="82" stroke="#b45309" stroke-width="0.22"/>
+<line x1="303.11611652351684" y1="81.11611652351682" x2="304.88388347648316" y2="82.88388347648318" stroke="#b45309" stroke-width="0.3"/>
+<line x1="307.7661165235168" y1="81.11611652351682" x2="309.53388347648314" y2="82.88388347648318" stroke="#b45309" stroke-width="0.3"/>
+<text x="306.325" y="80.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">93</text>
+<line x1="312" y1="82" x2="358" y2="82" stroke="#b45309" stroke-width="0.45"/>
+<polygon points="358,82 355.0,83.3 355.0,80.7" fill="#b45309" stroke="#b45309" stroke-width="0.2"/>
+<text x="322" y="78" fill="#b45309" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">CORSA / PARCHEGGIO</text>
+<text x="297" y="151" fill="#626b74" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">La guida sporge oltre il vano scala.</text>
+<rect x="14" y="169" width="205" height="75" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="20" y="177" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">D - DETTAGLIO TIPO CARRELLO E TENUTA</text>
+<text x="20" y="182" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">schema, non in scala</text>
+<rect x="28" y="217.0" width="100" height="7" fill="#e4e7ea" stroke="#20252b" stroke-width="0.4"/>
+<text x="34" y="221.5" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">GUIDA / CONTROGUIDA IN ALLUMINIO</text>
+<polygon points="58.2,213.0 58.13851289729034,213.62428903045162 57.95641450403612,214.2245869835683 57.66070275936814,214.7778247456627 57.262741699796955,215.26274169979695 56.77782474566273,215.66070275936815 56.22458698356829,215.9564145040361 55.624289030451614,216.13851289729033 55.0,216.2 54.37571096954839,216.13851289729033 53.77541301643171,215.9564145040361 53.22217525433727,215.66070275936815 52.737258300203045,215.26274169979695 52.33929724063186,214.7778247456627 52.04358549596388,214.2245869835683 51.86148710270966,213.62428903045162 51.8,213.0 51.86148710270966,212.37571096954838 52.04358549596388,211.7754130164317 52.33929724063185,211.2221752543373 52.737258300203045,210.73725830020305 53.22217525433727,210.33929724063185 53.77541301643171,210.0435854959639 54.375710969548386,209.86148710270967 55.0,209.8 55.624289030451614,209.86148710270967 56.22458698356829,210.0435854959639 56.77782474566273,210.33929724063185 57.262741699796955,210.73725830020305 57.66070275936814,211.2221752543373 57.95641450403612,211.7754130164317 58.13851289729034,212.37571096954838" fill="none" stroke="#20252b" stroke-width="0.4"/>
+<text x="61.0" y="212.0" fill="#20252b" font-size="2.1" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">RULLO ANTISOLLEVAMENTO</text>
+<polygon points="94.2,213.0 94.13851289729034,213.62428903045162 93.95641450403612,214.2245869835683 93.66070275936815,214.7778247456627 93.26274169979695,215.26274169979695 92.77782474566273,215.66070275936815 92.22458698356829,215.9564145040361 91.6242890304516,216.13851289729033 91.0,216.2 90.3757109695484,216.13851289729033 89.77541301643171,215.9564145040361 89.22217525433727,215.66070275936815 88.73725830020305,215.26274169979695 88.33929724063185,214.7778247456627 88.04358549596388,214.2245869835683 87.86148710270966,213.62428903045162 87.8,213.0 87.86148710270966,212.37571096954838 88.04358549596388,211.7754130164317 88.33929724063185,211.2221752543373 88.73725830020305,210.73725830020305 89.22217525433727,210.33929724063185 89.77541301643171,210.0435854959639 90.3757109695484,209.86148710270967 91.0,209.8 91.6242890304516,209.86148710270967 92.22458698356829,210.0435854959639 92.77782474566273,210.33929724063185 93.26274169979695,210.73725830020305 93.66070275936815,211.2221752543373 93.95641450403612,211.7754130164317 94.13851289729034,212.37571096954838" fill="none" stroke="#20252b" stroke-width="0.4"/>
+<text x="97.0" y="212.0" fill="#20252b" font-size="2.1" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">RULLO ANTISOLLEVAMENTO</text>
+<rect x="35" y="195" width="85" height="5" fill="#d9eef5" stroke="#20252b" stroke-width="0.5"/>
+<text x="78" y="199" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">VETRO STRATIFICATO DI SICUREZZA</text>
+<line x1="120" y1="200" x2="190" y2="210" stroke="#626b74" stroke-width="0.2" stroke-dasharray="2 2"/>
+<text x="132" y="217" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Guarnizioni EPDM a doppia battuta</text>
+<text x="133" y="222" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Drenaggio perimetrale e canale raccolta</text>
+<text x="133" y="227" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Finecorsa meccanico regolabile</text>
+<rect x="224" y="169" width="182" height="41" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="230" y="177" fill="#20252b" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">IPOTESI DI PROGETTO</text>
+<text x="230" y="184.0" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Luce netta 120 x 93 cm. Scorrimento lungo il lato da 93 cm.</text>
+<text x="230" y="189.3" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Pannello vetrato unico; area di parcheggio adiacente all'apertura.</text>
+<text x="230" y="194.6" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Movimento motorizzato consigliato; sblocco manuale di emergenza.</text>
+<text x="230" y="199.9" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Protezione anticaduta obbligatoria sul vano scala.</text>
+<line x1="224" y1="214" x2="406" y2="214" stroke="#20252b" stroke-width="0.35"/>
+<text x="230" y="221" fill="#20252b" font-size="3.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA_TETTO</text>
+<text x="230" y="226" fill="#626b74" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Variante orizzontale a scorrimento</text>
+<line x1="224" y1="231" x2="406" y2="231" stroke="#20252b" stroke-width="0.2"/>
+<text x="230" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">TAVOLA</text>
+<text x="230" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A-02</text>
+<text x="287" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">REV.</text>
+<text x="287" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">R0</text>
+<text x="344" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">SCALA</text>
+<text x="344" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">1:20</text>
+<text x="230" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">DATA</text>
+<text x="230" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">02.11.2026</text>
+<text x="287" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">UNITA</text>
+<text x="287" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">cm</text>
+<text x="344" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">STATO</text>
+<text x="344" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">PRELIMINARE</text>
+<text x="230" y="274" fill="#b45309" font-size="2.3" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">NON PER COSTRUZIONE - VERIFICARE INGOMBRI E SUPPORTI</text>
+<line x1="14" y1="280" x2="406.0" y2="280" stroke="#20252b" stroke-width="0.2"/>
+<text x="15" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">finestra_tetto | variante orizzontale preliminare</text>
+<text x="405.0" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="end">A-02 / R0</text>
+</svg>

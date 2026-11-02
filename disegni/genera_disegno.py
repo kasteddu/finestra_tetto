@@ -385,14 +385,15 @@ def pdf_bytes(sheet: Sheet) -> bytes:
                 f"{item.w * MM_TO_PT:.3f} {item.h * MM_TO_PT:.3f} re {fill} {stroke}"
             )
         elif isinstance(item, Polygon):
-            r, g, b = hex_to_rgb(item.fill)
-            content.append(f"{r:.4f} {g:.4f} {b:.4f} rg")
+            if item.fill != "none":
+                r, g, b = hex_to_rgb(item.fill)
+                content.append(f"{r:.4f} {g:.4f} {b:.4f} rg")
             first, *rest = item.points
             content.append(f"{first[0] * MM_TO_PT:.3f} {(PAGE_H - first[1]) * MM_TO_PT:.3f} m")
             for x, y in rest:
                 content.append(f"{x * MM_TO_PT:.3f} {(PAGE_H - y) * MM_TO_PT:.3f} l")
             set_pdf_stroke(content, item.color, item.width)
-            content.append("h B")
+            content.append("h S" if item.fill == "none" else "h B")
         elif isinstance(item, Text):
             text = item.value.encode("cp1252", "replace").decode("latin-1")
             text = text.replace("\\", "\\\\").replace("(", "\\(").replace(")", "\\)")

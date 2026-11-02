@@ -9,6 +9,12 @@ Progetto di rilievo e sviluppo di una finestra fisica inclinata per tetto.
 - `finestra_tetto_A01.pdf`: prima bozza del disegno tecnico.
 - `finestra_tetto_A01.svg`: sorgente vettoriale del disegno.
 - `disegni/genera_disegno.py`: generatore della tavola.
+- `progetto_orizzontale.md`: concept della variante orizzontale con coperchio scorrevole.
+- `finestra_tetto_A02_orizzontale.pdf`: tavola preliminare della variante orizzontale.
+- `finestra_tetto_A02_orizzontale.svg`: sorgente vettoriale della variante.
+- `disegni/genera_orizzontale.py`: generatore della tavola orizzontale.
+- `concept_orizzontale.svg`: illustrazione assonometrica del concept.
+- `disegni/genera_concept.py`: generatore dell'illustrazione.
 
 ## Dati principali
 
