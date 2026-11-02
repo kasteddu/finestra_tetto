@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#20252b" stroke-width="0.45"/>
+<text x="15" y="17" fill="#20252b" font-size="5.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA TETTO</text>
+<text x="15" y="23" fill="#626b74" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">RILEVO GEOMETRICO PRELIMINARE</text>
+<line x1="15" y1="28" x2="405.0" y2="28" stroke="#20252b" stroke-width="0.3"/>
+<rect x="14" y="34.0" width="126" height="174.0" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<rect x="146" y="34.0" width="144" height="174.0" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<rect x="296" y="34.0" width="110" height="174.0" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="20" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A - VISTA ORTOGONALE AL PIANO</text>
+<text x="20" y="47" fill="#626b74" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">vera grandezza, telaio non rappresentato</text>
+<rect x="31.0" y="58.0" width="9.3" height="12.0" fill="none" stroke="#20252b" stroke-width="0.6"/>
+<line x1="35.65" y1="55.0" x2="35.65" y2="73.0" stroke="#626b74" stroke-width="0.16" stroke-dasharray="3 2"/>
+<line x1="28.0" y1="64.0" x2="43.3" y2="64.0" stroke="#626b74" stroke-width="0.16" stroke-dasharray="3 2"/>
+<line x1="31.0" y1="58.0" x2="31.0" y2="54.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="40.3" y1="58.0" x2="40.3" y2="54.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="31.0" y1="52" x2="40.3" y2="52" stroke="#b45309" stroke-width="0.22"/>
+<line x1="30.116116523516816" y1="51.116116523516816" x2="31.883883476483184" y2="52.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="39.41611652351681" y1="51.116116523516816" x2="41.18388347648318" y2="52.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="35.65" y="50.4" fill="#20252b" font-size="3.2" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">93</text>
+<line x1="40.3" y1="58.0" x2="48.3" y2="58.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="40.3" y1="70.0" x2="48.3" y2="70.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="50.3" y1="58.0" x2="50.3" y2="70.0" stroke="#b45309" stroke-width="0.22"/>
+<line x1="51.18388347648318" y1="57.116116523516816" x2="49.41611652351681" y2="58.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="51.18388347648318" y1="69.11611652351681" x2="49.41611652351681" y2="70.88388347648319" stroke="#b45309" stroke-width="0.3"/>
+<text x="48.699999999999996" y="64.0" fill="#20252b" font-size="3.2" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 48.699999999999996 64.0)">120</text>
+<text x="35.65" y="64.0" fill="#b45309" font-size="2.7" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">LATO ALTO  +53</text>
+<text x="35.65" y="65.0" fill="#b45309" font-size="2.7" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">LATO BASSO  +10</text>
+<text x="152" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">B - SEZIONE LUNGO LA PENDENZA</text>
+<text x="152" y="47" fill="#626b74" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">quote verticali riferite allo stesso piano</text>
+<line x1="154" y1="196.0" x2="286" y2="196.0" stroke="#626b74" stroke-width="0.35" stroke-dasharray="5 2"/>
+<line x1="166.0" y1="195.0" x2="177.2031245641562" y2="190.7" stroke="#20252b" stroke-width="1.0"/>
+<line x1="166.0" y1="195.0" x2="166.0" y2="196.0" stroke="#626b74" stroke-width="0.22" stroke-dasharray="2 2"/>
+<line x1="177.2031245641562" y1="190.7" x2="177.2031245641562" y2="196.0" stroke="#626b74" stroke-width="0.22" stroke-dasharray="2 2"/>
+<line x1="166.0" y1="196.0" x2="166.0" y2="206.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="177.2031245641562" y1="196.0" x2="177.2031245641562" y2="206.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="166.0" y1="204" x2="177.2031245641562" y2="204" stroke="#b45309" stroke-width="0.22"/>
+<line x1="165.1161165235168" y1="203.1161165235168" x2="166.8838834764832" y2="204.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<line x1="176.31924108767302" y1="203.1161165235168" x2="178.0870080406394" y2="204.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="171.6015622820781" y="202.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">112.0</text>
+<line x1="166.0" y1="195.0" x2="158.0" y2="195.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="166.0" y1="196.0" x2="158.0" y2="196.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="160.0" y1="195.0" x2="160.0" y2="196.0" stroke="#b45309" stroke-width="0.22"/>
+<line x1="160.8838834764832" y1="194.1161165235168" x2="159.1161165235168" y2="195.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<line x1="160.8838834764832" y1="195.1161165235168" x2="159.1161165235168" y2="196.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="158.4" y="195.5" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 158.4 195.5)">10</text>
+<line x1="177.2031245641562" y1="190.7" x2="182.2031245641562" y2="190.7" stroke="#626b74" stroke-width="0.18"/>
+<line x1="177.2031245641562" y1="196.0" x2="182.2031245641562" y2="196.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="184.2031245641562" y1="190.7" x2="184.2031245641562" y2="196.0" stroke="#b45309" stroke-width="0.22"/>
+<line x1="185.0870080406394" y1="189.8161165235168" x2="183.31924108767302" y2="191.58388347648318" stroke="#b45309" stroke-width="0.3"/>
+<line x1="185.0870080406394" y1="195.1161165235168" x2="183.31924108767302" y2="196.8838834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="182.60312456415622" y="193.35" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 182.60312456415622 193.35)">53</text>
+<line x1="161.7" y1="183.79687543584382" x2="172.9031245641562" y2="179.4968754358438" stroke="#b45309" stroke-width="0.22"/>
+<line x1="160.8161165235168" y1="182.91299195936062" x2="162.58388347648318" y2="184.680758912327" stroke="#b45309" stroke-width="0.3"/>
+<line x1="172.019241087673" y1="178.6129919593606" x2="173.7870080406394" y2="180.380758912327" stroke="#b45309" stroke-width="0.3"/>
+<text x="167.3015622820781" y="180.04687543584382" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(-20.99787554593272 167.3015622820781 180.04687543584382)">120</text>
+<line x1="184.0" y1="195.0" x2="196.0" y2="191.5" stroke="#b45309" stroke-width="0.22"/>
+<text x="185.0" y="201.5" fill="#b45309" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">21.0 DEG</text>
+<text x="154" y="208.0" fill="#626b74" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Piano di riferimento orizzontale</text>
+<text x="302" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">C - PROIEZIONE ORIZZONTALE</text>
+<text x="302" y="47" fill="#626b74" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">luce in pianta</text>
+<rect x="305.0" y="59.0" width="9.3" height="11.203124564156198" fill="none" stroke="#20252b" stroke-width="0.6"/>
+<line x1="305.0" y1="59.0" x2="305.0" y2="56.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="314.3" y1="59.0" x2="314.3" y2="56.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="305.0" y1="54" x2="314.3" y2="54" stroke="#b45309" stroke-width="0.22"/>
+<line x1="304.11611652351684" y1="53.116116523516816" x2="305.88388347648316" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="313.41611652351685" y1="53.116116523516816" x2="315.1838834764832" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="309.65" y="52.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">93</text>
+<line x1="314.3" y1="59.0" x2="320.3" y2="59.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="314.3" y1="70.2031245641562" x2="320.3" y2="70.2031245641562" stroke="#626b74" stroke-width="0.18"/>
+<line x1="322.3" y1="59.0" x2="322.3" y2="70.2031245641562" stroke="#b45309" stroke-width="0.22"/>
+<line x1="323.1838834764832" y1="58.116116523516816" x2="321.41611652351685" y2="59.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="323.1838834764832" y1="69.31924108767302" x2="321.41611652351685" y2="71.08700804063938" stroke="#b45309" stroke-width="0.3"/>
+<text x="320.7" y="64.6015622820781" fill="#20252b" font-size="2.6" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 320.7 64.6015622820781)">112.0</text>
+<text x="309.65" y="65.0" fill="#b45309" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">LATO ALTO</text>
+<text x="309.65" y="66.2031245641562" fill="#b45309" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">LATO BASSO</text>
+<line x1="14" y1="214" x2="406.0" y2="214" stroke="#20252b" stroke-width="0.35"/>
+<text x="15" y="220" fill="#20252b" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">NOTE DI RILIEVO</text>
+<text x="15" y="227.0" fill="#20252b" font-size="2.55" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Misure nette: 120 cm lungo la linea di massima pendenza; 93 cm trasversale.</text>
+<text x="15" y="232.2" fill="#20252b" font-size="2.55" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Quote verticali 53 / 10 cm assunte rispetto allo stesso piano orizzontale.</text>
+<text x="15" y="237.4" fill="#20252b" font-size="2.55" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Dimensioni derivate: dislivello 43 cm; angolo 21.0 DEG; proiezione 112,0 x 93 cm.</text>
+<text x="15" y="242.6" fill="#20252b" font-size="2.55" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Spessori, telai, cerniere, fissaggi e copertura sono da rilevare e NON sono quotati.</text>
+<line x1="260" y1="214" x2="260" y2="280" stroke="#20252b" stroke-width="0.3"/>
+<text x="266" y="220" fill="#20252b" font-size="3.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA_TETTO</text>
+<text x="266" y="225" fill="#626b74" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Rilievo geometrico dell'apertura</text>
+<line x1="260" y1="229" x2="406" y2="229" stroke="#20252b" stroke-width="0.2"/>
+<text x="267" y="238" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">TAVOLA</text>
+<text x="267" y="243" fill="#20252b" font-size="3.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A-01</text>
+<text x="313" y="238" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">REV.</text>
+<text x="313" y="243" fill="#20252b" font-size="3.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">R0</text>
+<text x="359" y="238" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">DATA</text>
+<text x="359" y="243" fill="#20252b" font-size="3.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">02.11.2026</text>
+<text x="267" y="255" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">SCALA</text>
+<text x="267" y="260" fill="#20252b" font-size="3.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">1:10</text>
+<text x="313" y="255" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">UNITA</text>
+<text x="313" y="260" fill="#20252b" font-size="3.0" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">cm</text>
+<line x1="260" y1="254" x2="406" y2="254" stroke="#20252b" stroke-width="0.2"/>
+<text x="266" y="261" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">STATO</text>
+<text x="266" y="266" fill="#b45309" font-size="2.55" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">PRELIMINARE - NON PER COSTRUZIONE</text>
+<text x="266" y="273" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Verificare tutte le quote sul posto.</text>
+<line x1="14" y1="280" x2="406.0" y2="280" stroke="#20252b" stroke-width="0.2"/>
+<text x="15" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">finestra_tetto | documento tecnico preliminare</text>
+<text x="405.0" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="end">A-01 / R0</text>
+</svg>
