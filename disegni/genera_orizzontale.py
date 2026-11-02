@@ -187,7 +187,7 @@ def build_horizontal_sheet() -> Sheet:
 
 
 def main() -> None:
-    output_dir = Path(__file__).resolve().parent.parent
+    output_dir = Path(__file__).resolve().parent.parent / "varianti" / "variante_01"
     sheet = build_horizontal_sheet()
     (output_dir / "finestra_tetto_A02_orizzontale.svg").write_bytes(svg_bytes(sheet))
     (output_dir / "finestra_tetto_A02_orizzontale.pdf").write_bytes(pdf_bytes(sheet))

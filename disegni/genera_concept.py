@@ -177,7 +177,7 @@ def build_svg() -> str:
 
 
 def main() -> None:
-    output = Path(__file__).resolve().parent.parent / "concept_orizzontale.svg"
+    output = Path(__file__).resolve().parent.parent / "varianti" / "variante_01" / "concept_orizzontale.svg"
     output.write_text(build_svg(), encoding="utf-8")
     print(f"Generated isometric concept illustration: {output}")
 

@@ -1,6 +1,9 @@
 # Variante orizzontale con coperchio vetrato scorrevole
 
-**Documento:** progetto di massima  
+**Variante:** 01 - coperchio scorrevole
+
+**Documento:** progetto di massima
+
 **Revisione:** R0  
 **Data:** 2 novembre 2026  
 **Stato:** preliminare, non per costruzione

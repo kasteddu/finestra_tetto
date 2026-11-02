@@ -1,27 +1,37 @@
 # finestra_tetto
 
-Progetto di rilievo e sviluppo di una finestra fisica inclinata per tetto.
+Progetto di rilievo e sviluppo di una finestra fisica per tetto.
 
-## Contenuto
+## Stato del progetto
+
+La variante attuale è la **02 - apertura a libro**: due ante vetrate incernierate ai lati opposti, due pistoni a gas, porta frontale invariata e fasce vetrate perimetrali.
+
+## Registro varianti
+
+| Cartella | Tavola | Configurazione | Stato |
+| --- | --- | --- | --- |
+| `varianti/variante_01/` | A-02 | Coperchio unico scorrevole sopra il piano | Superata, conservata |
+| `varianti/variante_02/` | A-03 | Due ante a libro con pistoni simmetrici | Attuale, preliminare |
+
+## Rilievo di base
 
 - `foto_orig/`: fotografie dello stato attuale.
-- `specifiche_tecniche.md`: dati, calcoli, assunzioni e informazioni ancora da rilevare.
-- `finestra_tetto_A01.pdf`: prima bozza del disegno tecnico.
-- `finestra_tetto_A01.svg`: sorgente vettoriale del disegno.
-- `disegni/genera_disegno.py`: generatore della tavola.
-- `progetto_orizzontale.md`: concept della variante orizzontale con coperchio scorrevole.
-- `finestra_tetto_A02_orizzontale.pdf`: tavola preliminare della variante orizzontale.
-- `finestra_tetto_A02_orizzontale.svg`: sorgente vettoriale della variante.
-- `disegni/genera_orizzontale.py`: generatore della tavola orizzontale.
-- `concept_orizzontale.svg`: illustrazione assonometrica del concept.
-- `disegni/genera_concept.py`: generatore dell'illustrazione.
+- `specifiche_tecniche.md`: misure e calcoli dello stato iniziale inclinato.
+- `finestra_tetto_A01.pdf`: tavola dello stato iniziale.
+- `finestra_tetto_A01.svg`: sorgente vettoriale dello stato iniziale.
+- `disegni/`: generatori delle tavole e dei concept.
 
 ## Dati principali
 
-- Luce lungo la pendenza: 120 cm
-- Larghezza trasversale: 93 cm
-- Bordo alto: +53 cm
-- Bordo basso: +10 cm
-- Inclinazione derivata: 21,0°
+- Luce dell'apertura: 120 × 93 cm.
+- Stato iniziale lungo la pendenza: 120 cm.
+- Stato iniziale trasversale: 93 cm.
+- Bordi iniziali: +53 cm e +10 cm.
+- Inclinazione iniziale derivata: 21,0°.
+- Variante attuale: piano orizzontale.
+
+## Organizzazione delle varianti
+
+Ogni nuova variante deve essere pubblicata in una nuova cartella `varianti/variante_NN/`, senza sovrascrivere le precedenti. La cartella deve contenere tavola PDF, tavola SVG, immagine/concept e relazione tecnica. Dopo ogni modifica va aggiornato questo registro, seguito da commit e push su GitHub.
 
 Il materiale è preliminare e deve essere verificato sul posto prima di qualsiasi utilizzo costruttivo.

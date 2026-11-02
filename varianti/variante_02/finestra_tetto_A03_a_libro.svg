@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#20252b" stroke-width="0.45"/>
+<text x="15" y="17" fill="#20252b" font-size="5.2" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA TETTO / APERTURA A LIBRO</text>
+<text x="15" y="23" fill="#626b74" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">DUE ANTE A VETRO, PISTONI SIMMETRICI, PORTA FRONTALE INVARIATA</text>
+<line x1="15" y1="28" x2="405.0" y2="28" stroke="#20252b" stroke-width="0.3"/>
+<rect x="14" y="34" width="162" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="20" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A - PIANTA</text>
+<text x="20" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">due ante; porta sul fronte; fasce vetrate perimetrali</text>
+<rect x="28.0" y="58.0" width="20.0" height="7" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="28.0" y="65.0" width="7" height="4.65" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="41.0" y="65.0" width="7" height="4.65" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="28.0" y="69.65" width="16" height="7" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="32.0" y="69.65" width="16" height="7" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="35.0" y="65.0" width="6.0" height="4.65" fill="none" stroke="#20252b" stroke-width="0.7"/>
+<line x1="38.0" y1="65.0" x2="38.0" y2="69.65" stroke="#626b74" stroke-width="0.35" stroke-dasharray="3 2"/>
+<line x1="35.0" y1="65.0" x2="35.0" y2="69.65" stroke="#b45309" stroke-width="0.8"/>
+<line x1="41.0" y1="65.0" x2="41.0" y2="69.65" stroke="#b45309" stroke-width="0.8"/>
+<text x="36.5" y="67.325" fill="#20252b" font-size="2.6" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">ANTA SX</text>
+<text x="39.5" y="67.325" fill="#20252b" font-size="2.6" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">ANTA DX</text>
+<text x="35.0" y="62.8" fill="#b45309" font-size="2.1" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">CERNIERA</text>
+<text x="41.0" y="62.8" fill="#b45309" font-size="2.1" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="end">CERNIERA</text>
+<rect x="28.0" y="71.65" width="20" height="11" fill="#fffaf0" stroke="#b45309" stroke-width="0.5" stroke-dasharray="3 2"/>
+<text x="38.0" y="76.15" fill="#b45309" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">PORTA</text>
+<text x="38.0" y="79.65" fill="#b45309" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">ESISTENTE</text>
+<line x1="35.0" y1="58.0" x2="35.0" y2="60.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="41.0" y1="58.0" x2="41.0" y2="60.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="35.0" y1="58" x2="41.0" y2="58" stroke="#b45309" stroke-width="0.22"/>
+<line x1="34.116116523516816" y1="57.116116523516816" x2="35.883883476483184" y2="58.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="40.116116523516816" y1="57.116116523516816" x2="41.883883476483184" y2="58.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="38.0" y="56.4" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">120</text>
+<line x1="35.0" y1="54" x2="38.0" y2="54" stroke="#b45309" stroke-width="0.22"/>
+<line x1="34.116116523516816" y1="53.116116523516816" x2="35.883883476483184" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="37.116116523516816" y1="53.116116523516816" x2="38.883883476483184" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="36.5" y="52.4" fill="#20252b" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">60</text>
+<line x1="38.0" y1="54" x2="41.0" y2="54" stroke="#b45309" stroke-width="0.22"/>
+<line x1="37.116116523516816" y1="53.116116523516816" x2="38.883883476483184" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<line x1="40.116116523516816" y1="53.116116523516816" x2="41.883883476483184" y2="54.883883476483184" stroke="#b45309" stroke-width="0.3"/>
+<text x="39.5" y="52.4" fill="#20252b" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">60</text>
+<line x1="48.0" y1="65.0" x2="56.0" y2="65.0" stroke="#626b74" stroke-width="0.18"/>
+<line x1="48.0" y1="69.65" x2="56.0" y2="69.65" stroke="#626b74" stroke-width="0.18"/>
+<line x1="58.0" y1="65.0" x2="58.0" y2="69.65" stroke="#b45309" stroke-width="0.22"/>
+<line x1="58.883883476483184" y1="64.11611652351681" x2="57.116116523516816" y2="65.88388347648319" stroke="#b45309" stroke-width="0.3"/>
+<line x1="58.883883476483184" y1="68.76611652351681" x2="57.116116523516816" y2="70.5338834764832" stroke="#b45309" stroke-width="0.3"/>
+<text x="56.4" y="67.325" fill="#20252b" font-size="2.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle" transform="rotate(270 56.4 67.325)">93</text>
+<text x="20" y="128" fill="#b45309" font-size="2.3" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">VETRO FISSO PERIMETRALE</text>
+<text x="20" y="133" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">La fascia riallinea le quote senza modificare la porta.</text>
+<line x1="66" y1="141" x2="66" y2="124" stroke="#b45309" stroke-width="0.35"/>
+<polygon points="66,124 67.3,127.0 64.7,127.0" fill="#b45309" stroke="#b45309" stroke-width="0.2"/>
+<text x="20" y="156" fill="#20252b" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FRONTE / ACCESSO ESISTENTE</text>
+<rect x="182" y="34" width="110" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="188" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">B - PROSPETTO FRONTALE</text>
+<text x="188" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">schema; altezze da rilevare</text>
+<line x1="190" y1="155" x2="284" y2="155" stroke="#20252b" stroke-width="0.45"/>
+<rect x="207.0" y="82.0" width="60.0" height="70.0" fill="none" stroke="#20252b" stroke-width="0.6"/>
+<rect x="200.0" y="82.0" width="7" height="70.0" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="267.0" y="82.0" width="7" height="70.0" fill="#d9eef5" stroke="#20252b" stroke-width="0.35"/>
+<rect x="207.0" y="82.0" width="60.0" height="5" fill="#d9eef5" stroke="#20252b" stroke-width="0.55"/>
+<line x1="237.0" y1="87.0" x2="237.0" y2="132" stroke="#626b74" stroke-width="0.35" stroke-dasharray="3 2"/>
+<text x="222.0" y="96.0" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">ANTA SX</text>
+<text x="252.0" y="96.0" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">ANTA DX</text>
+<rect x="226.0" y="128" width="22" height="27" fill="none" stroke="#b45309" stroke-width="0.55" stroke-dasharray="3 2"/>
+<text x="237.0" y="140" fill="#b45309" font-size="2.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">PORTA</text>
+<text x="237.0" y="144.5" fill="#b45309" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">INVARIATA</text>
+<text x="188" y="166" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Le fasce vetrate laterali e superiore formano</text>
+<text x="188" y="171" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">il raccordo verso il nuovo telaio orizzontale.</text>
+<rect x="298" y="34" width="108" height="128" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="304" y="42" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">C - SEZIONE A LIBRO</text>
+<text x="304" y="47" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">aperto circa 70 DEG; schema</text>
+<line x1="305" y1="151" x2="399" y2="151" stroke="#20252b" stroke-width="0.45"/>
+<line x1="316.0" y1="114.0" x2="316.0" y2="151" stroke="#626b74" stroke-width="0.35"/>
+<line x1="376.0" y1="114.0" x2="376.0" y2="151" stroke="#626b74" stroke-width="0.35"/>
+<line x1="316.0" y1="114.0" x2="317.026060429977" y2="111.18092213764227" stroke="#20252b" stroke-width="1.0"/>
+<line x1="376.0" y1="114.0" x2="374.973939570023" y2="111.18092213764227" stroke="#20252b" stroke-width="1.0"/>
+<line x1="316.0" y1="114.0" x2="376.0" y2="114.0" stroke="#626b74" stroke-width="0.3" stroke-dasharray="3 2"/>
+<text x="317.026060429977" y="108.18092213764227" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">ANTA SX</text>
+<text x="374.973939570023" y="108.18092213764227" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="middle">ANTA DX</text>
+<polygon points="318.2,114.0 318.1577276168871,114.42919870843548 318.03253497152485,114.8419035512032 317.8292331470656,115.22225451264312 317.5556349186104,115.55563491861041 317.22225451264313,115.8292331470656 316.8419035512032,116.03253497152483 316.4291987084355,116.1577276168871 316.0,116.2 315.5708012915645,116.1577276168871 315.1580964487968,116.03253497152483 314.77774548735687,115.8292331470656 314.4443650813896,115.55563491861041 314.1707668529344,115.22225451264312 313.96746502847515,114.8419035512032 313.8422723831129,114.42919870843548 313.8,114.0 313.8422723831129,113.57080129156452 313.96746502847515,113.1580964487968 314.1707668529344,112.77774548735688 314.4443650813896,112.44436508138959 314.77774548735687,112.1707668529344 315.1580964487968,111.96746502847517 315.5708012915645,111.8422723831129 316.0,111.8 316.4291987084355,111.8422723831129 316.8419035512032,111.96746502847517 317.22225451264313,112.1707668529344 317.5556349186104,112.44436508138959 317.8292331470656,112.77774548735688 318.03253497152485,113.1580964487968 318.1577276168871,113.57080129156452" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<polygon points="378.2,114.0 378.1577276168871,114.42919870843548 378.03253497152485,114.8419035512032 377.8292331470656,115.22225451264312 377.5556349186104,115.55563491861041 377.22225451264313,115.8292331470656 376.8419035512032,116.03253497152483 376.4291987084355,116.1577276168871 376.0,116.2 375.5708012915645,116.1577276168871 375.1580964487968,116.03253497152483 374.77774548735687,115.8292331470656 374.4443650813896,115.55563491861041 374.1707668529344,115.22225451264312 373.96746502847515,114.8419035512032 373.8422723831129,114.42919870843548 373.8,114.0 373.8422723831129,113.57080129156452 373.96746502847515,113.1580964487968 374.1707668529344,112.77774548735688 374.4443650813896,112.44436508138959 374.77774548735687,112.1707668529344 375.1580964487968,111.96746502847517 375.5708012915645,111.8422723831129 376.0,111.8 376.4291987084355,111.8422723831129 376.8419035512032,111.96746502847517 377.22225451264313,112.1707668529344 377.5556349186104,112.44436508138959 377.8292331470656,112.77774548735688 378.03253497152485,113.1580964487968 378.1577276168871,113.57080129156452" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<line x1="326.0" y1="144.0" x2="316.59511504938666" y2="112.36493483983251" stroke="#b45309" stroke-width="1.2"/>
+<polygon points="327.5,144.0 327.4711779206049,144.29263548302418 327.38581929876693,144.57402514854763 327.2472044184538,144.8333553495294 327.06066017177983,145.06066017177983 326.8333553495294,145.2472044184538 326.57402514854766,145.38581929876693 326.2926354830242,145.47117792060484 326.0,145.5 325.7073645169758,145.47117792060484 325.42597485145234,145.38581929876693 325.1666446504706,145.2472044184538 324.93933982822017,145.06066017177983 324.7527955815462,144.8333553495294 324.61418070123307,144.57402514854763 324.5288220793951,144.29263548302418 324.5,144.0 324.5288220793951,143.70736451697582 324.61418070123307,143.42597485145237 324.7527955815462,143.1666446504706 324.93933982822017,142.93933982822017 325.1666446504706,142.7527955815462 325.42597485145234,142.61418070123307 325.7073645169758,142.52882207939516 326.0,142.5 326.2926354830242,142.52882207939516 326.57402514854766,142.61418070123307 326.8333553495294,142.7527955815462 327.06066017177983,142.93933982822017 327.2472044184538,143.1666446504706 327.38581929876693,143.42597485145237 327.4711779206049,143.70736451697582" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<polygon points="318.09511504938666,112.36493483983251 318.06629296999154,112.65757032285671 317.9809343481536,112.93895998838015 317.84231946784047,113.19829018936191 317.6557752211665,113.42559501161233 317.4284703989161,113.61213925828633 317.1691401979343,113.75075413859945 316.88775053241085,113.83611276043736 316.59511504938666,113.86493483983251 316.3024795663625,113.83611276043736 316.021089900839,113.75075413859945 315.76175969985724,113.61213925828633 315.53445487760683,113.42559501161233 315.34791063093286,113.19829018936191 315.20929575061973,112.93895998838015 315.1239371287818,112.65757032285671 315.09511504938666,112.36493483983251 315.1239371287818,112.07229935680832 315.20929575061973,111.79090969128488 315.34791063093286,111.53157949030312 315.53445487760683,111.3042746680527 315.76175969985724,111.1177304213787 316.021089900839,110.97911554106558 316.3024795663625,110.89375691922767 316.59511504938666,110.86493483983251 316.88775053241085,110.89375691922767 317.1691401979343,110.97911554106558 317.4284703989161,111.1177304213787 317.6557752211665,111.3042746680527 317.84231946784047,111.53157949030312 317.9809343481536,111.79090969128488 318.06629296999154,112.07229935680832" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<line x1="366.0" y1="144.0" x2="375.40488495061334" y2="112.36493483983251" stroke="#b45309" stroke-width="1.2"/>
+<polygon points="367.5,144.0 367.4711779206049,144.29263548302418 367.38581929876693,144.57402514854763 367.2472044184538,144.8333553495294 367.06066017177983,145.06066017177983 366.8333553495294,145.2472044184538 366.57402514854766,145.38581929876693 366.2926354830242,145.47117792060484 366.0,145.5 365.7073645169758,145.47117792060484 365.42597485145234,145.38581929876693 365.1666446504706,145.2472044184538 364.93933982822017,145.06066017177983 364.7527955815462,144.8333553495294 364.61418070123307,144.57402514854763 364.5288220793951,144.29263548302418 364.5,144.0 364.5288220793951,143.70736451697582 364.61418070123307,143.42597485145237 364.7527955815462,143.1666446504706 364.93933982822017,142.93933982822017 365.1666446504706,142.7527955815462 365.42597485145234,142.61418070123307 365.7073645169758,142.52882207939516 366.0,142.5 366.2926354830242,142.52882207939516 366.57402514854766,142.61418070123307 366.8333553495294,142.7527955815462 367.06066017177983,142.93933982822017 367.2472044184538,143.1666446504706 367.38581929876693,143.42597485145237 367.4711779206049,143.70736451697582" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<polygon points="376.90488495061334,112.36493483983251 376.8760628712182,112.65757032285671 376.79070424938027,112.93895998838015 376.65208936906714,113.19829018936191 376.46554512239317,113.42559501161233 376.23824030014276,113.61213925828633 375.978910099161,113.75075413859945 375.6975204336375,113.83611276043736 375.40488495061334,113.86493483983251 375.11224946758915,113.83611276043736 374.8308598020657,113.75075413859945 374.5715296010839,113.61213925828633 374.3442247788335,113.42559501161233 374.15768053215953,113.19829018936191 374.0190656518464,112.93895998838015 373.93370703000846,112.65757032285671 373.90488495061334,112.36493483983251 373.93370703000846,112.07229935680832 374.0190656518464,111.79090969128488 374.15768053215953,111.53157949030312 374.3442247788335,111.3042746680527 374.5715296010839,111.1177304213787 374.8308598020657,110.97911554106558 375.11224946758915,110.89375691922767 375.40488495061334,110.86493483983251 375.6975204336375,110.89375691922767 375.978910099161,110.97911554106558 376.23824030014276,111.1177304213787 376.46554512239317,111.3042746680527 376.65208936906714,111.53157949030312 376.79070424938027,111.79090969128488 376.8760628712182,112.07229935680832" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<text x="312" y="159" fill="#b45309" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">1 PISTONE A GAS PER ANTA</text>
+<text x="312" y="164" fill="#b45309" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">ANCORAGGI SIMMETRICI</text>
+<rect x="14" y="169" width="205" height="75" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="20" y="177" fill="#20252b" font-size="3.4" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">D - DETTAGLIO CERNIERA / PISTONE</text>
+<text x="20" y="182" fill="#626b74" font-size="2.35" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">schema funzionale, non in scala</text>
+<rect x="29" y="221" width="110" height="7" fill="#e4e7ea" stroke="#20252b" stroke-width="0.45"/>
+<text x="34" y="225.5" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">TELAIO FISSO / FASCIA VETRATA</text>
+<line x1="145.0" y1="221.0" x2="105.0" y2="199.0" stroke="#20252b" stroke-width="1.0"/>
+<polygon points="148.0,221.0 147.9423558412097,221.5852709660484 147.77163859753387,222.14805029709527 147.49440883690764,222.6667106990588 147.12132034355963,223.12132034355963 146.6667106990588,223.49440883690764 146.14805029709527,223.77163859753387 145.5852709660484,223.9423558412097 145.0,224.0 144.4147290339516,223.9423558412097 143.85194970290473,223.77163859753387 143.3332893009412,223.49440883690764 142.87867965644037,223.12132034355963 142.50559116309236,222.6667106990588 142.22836140246613,222.14805029709527 142.0576441587903,221.5852709660484 142.0,221.0 142.0576441587903,220.4147290339516 142.22836140246613,219.85194970290473 142.50559116309236,219.3332893009412 142.87867965644037,218.87867965644037 143.3332893009412,218.50559116309236 143.85194970290473,218.22836140246613 144.4147290339516,218.0576441587903 145.0,218.0 145.5852709660484,218.0576441587903 146.14805029709527,218.22836140246613 146.6667106990588,218.50559116309236 147.12132034355963,218.87867965644037 147.49440883690764,219.3332893009412 147.77163859753387,219.85194970290473 147.9423558412097,220.4147290339516" fill="none" stroke="#b45309" stroke-width="0.3"/>
+<text x="101" y="197" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">ANTA VETRATA</text>
+<line x1="49.0" y1="234.0" x2="113.0" y2="207.0" stroke="#b45309" stroke-width="1.7"/>
+<line x1="47.0" y1="236.0" x2="51.0" y2="232.0" stroke="#b45309" stroke-width="0.5"/>
+<text x="47" y="242" fill="#b45309" font-size="2.3" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">PISTONE</text>
+<text x="151" y="199" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Cerniera continua o</text>
+<text x="151" y="203" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">serie pesante.</text>
+<text x="151" y="211" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Guarnizione centrale</text>
+<text x="151" y="215" fill="#20252b" font-size="2.2" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">a doppia battuta.</text>
+<rect x="224" y="169" width="182" height="41" fill="none" stroke="#d9dee3" stroke-width="0.25"/>
+<text x="230" y="177" fill="#20252b" font-size="3.1" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">REGOLE DI PROGETTO</text>
+<text x="230" y="185.0" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Due ante nominali 60 x 93 cm; luce complessiva 120 x 93 cm.</text>
+<text x="230" y="190.4" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Due pistoni a gas, uno per anta, con ancoraggi speculari.</text>
+<text x="230" y="195.8" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Porta frontale esistente mantenuta senza modifiche.</text>
+<text x="230" y="201.2" fill="#20252b" font-size="2.25" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">- Vetro fisso perimetrale per raccordare le quote esistenti.</text>
+<line x1="224" y1="214" x2="406" y2="214" stroke="#20252b" stroke-width="0.35"/>
+<text x="230" y="221" fill="#20252b" font-size="3.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">FINESTRA_TETTO</text>
+<text x="230" y="226" fill="#626b74" font-size="2.5" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">Variante a libro con due ante</text>
+<line x1="224" y1="231" x2="406" y2="231" stroke="#20252b" stroke-width="0.2"/>
+<text x="230" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">TAVOLA</text>
+<text x="230" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">A-03</text>
+<text x="287" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">REV.</text>
+<text x="287" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">R0</text>
+<text x="344" y="240" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">SCALA</text>
+<text x="344" y="245" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">1:20</text>
+<text x="230" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">DATA</text>
+<text x="230" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">02.11.2026</text>
+<text x="287" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">UNITA</text>
+<text x="287" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">cm</text>
+<text x="344" y="257" fill="#626b74" font-size="2.0" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">STATO</text>
+<text x="344" y="262" fill="#20252b" font-size="2.9" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">PRELIMINARE</text>
+<text x="230" y="274" fill="#b45309" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="start">NON PER COSTRUZIONE - PISTONI DA CALIBRARE SUL PESO REALE</text>
+<line x1="14" y1="280" x2="406.0" y2="280" stroke="#20252b" stroke-width="0.2"/>
+<text x="15" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="start">finestra_tetto | variante a libro preliminare</text>
+<text x="405.0" y="285" fill="#626b74" font-size="2.15" font-family="Arial, Helvetica, sans-serif" font-weight="400" text-anchor="end">A-03 / R0</text>
+</svg>

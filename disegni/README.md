@@ -26,3 +26,16 @@ python3 disegni/genera_disegno.py
 ```
 
 Il documento è preliminare e non è destinato alla costruzione.
+
+## Varianti
+
+Ogni variante viene salvata in una cartella numerata sotto `varianti/`.
+
+```bash
+python3 disegni/genera_orizzontale.py
+python3 disegni/genera_concept.py
+python3 disegni/genera_a_libro.py
+python3 disegni/genera_concept_a_libro.py
+```
+
+I risultati vengono scritti rispettivamente in `varianti/variante_01/` e `varianti/variante_02/`.
