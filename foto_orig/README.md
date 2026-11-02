@@ -2,6 +2,8 @@
 
 Gli originali delle fotografie 3-6 sono in formato HEIC. Le copie JPEG nella cartella `anteprime/` servono per la visualizzazione nel browser e non sostituiscono gli originali.
 
+Tutti i file sono stati ripuliti da EXIF, GPS, XMP, IPTC e dati del dispositivo. Restano soltanto le strutture tecniche necessarie alla codifica delle immagini e al profilo colore.
+
 | File originale | Anteprima | Contenuto |
 | --- | --- | --- |
 | `foto_1.jpeg` | `foto_orig/foto_1.jpeg` | Vista esterna dell'apertura inclinata aperta |

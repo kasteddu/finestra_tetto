@@ -17,6 +17,7 @@ La variante attuale è la **02 - apertura a libro**: due ante vetrate incerniera
 
 - `foto_orig/`: sei fotografie originali; indice e note in `foto_orig/README.md`.
 - `anteprime/`: copie JPEG delle foto 3-6 per la visualizzazione su GitHub.
+- Le fotografie sono prive di metadati EXIF, GPS e dati del dispositivo.
 - `specifiche_tecniche.md`: misure e calcoli dello stato iniziale inclinato.
 - `finestra_tetto_A01.pdf`: tavola dello stato iniziale.
 - `finestra_tetto_A01.svg`: sorgente vettoriale dello stato iniziale.
