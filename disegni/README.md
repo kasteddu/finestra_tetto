@@ -36,6 +36,7 @@ python3 disegni/genera_orizzontale.py
 python3 disegni/genera_concept.py
 python3 disegni/genera_a_libro.py
 python3 disegni/genera_concept_a_libro.py
+python3 disegni/genera_variante_03.py
 ```
 
-I risultati vengono scritti rispettivamente in `varianti/variante_01/` e `varianti/variante_02/`.
+I risultati vengono scritti nelle rispettive cartelle `varianti/variante_NN/`.

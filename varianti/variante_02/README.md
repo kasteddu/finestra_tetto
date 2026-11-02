@@ -1,7 +1,7 @@
 # Variante 02 - apertura a libro
 
 **Tavola:** A-03  
-**Stato:** variante attuale, preliminare
+**Stato:** superata dalla variante 03, conservata per confronto
 
 Questa variante prevede due ante vetrate da circa 60 × 93 cm, incernierate sui lati opposti e sollevate da due pistoni a gas. La porta frontale esistente rimane invariata; le fasce vetrate perimetrali raccordano le altezze.
 
